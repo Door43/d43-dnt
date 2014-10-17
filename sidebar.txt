@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dnt:home|Door43 (dnt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dnt|d43-dnt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dnt/archive/master.zip|d43-dnt.zip]]
+
+**Recent Changes**
+{{changes>ns = dnt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dnt|Ethnologue data]]
+
